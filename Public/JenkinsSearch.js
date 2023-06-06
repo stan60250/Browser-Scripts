@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         jenkins 搜尋框
-// @source       https://github.com/stan60250/Browser-Scripts/raw/main/JenkinsSearch.js
-// @namespace    https://github.com/stan60250/Browser-Scripts/raw/main/JenkinsSearch.js
+// @source       https://github.com/stan60250/Browser-Scripts/raw/main/Public/JenkinsSearch.js
+// @namespace    https://github.com/stan60250/Browser-Scripts/raw/main/Public/JenkinsSearch.js
 // @version      0.1
 // @description  jenkins 搜尋框
 // @match        *://*/job/*/build*
